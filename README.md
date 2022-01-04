@@ -5,7 +5,7 @@
 
 The Socratic questioning or Socratic maieutics is a conversation style used by the philosopher Socrate (470BC-399BC) in the Ancient greek. It is well illustrated in the writings of Plato (428/427BC-348/347BC) such as *Theaetetus*.
 
-## Partie questionnement socratique
+Partie questionnement socratique
 
 Partie brève nlp / nltk
 
@@ -13,8 +13,8 @@ Natural Language Processing (NLP) is a field obtained by mixing three discipline
 
 Partie spacy
 
+spaCy is a Python library designed for advanced NLP. It is trained for more than 60 languages. It is able to perform all the tasks related to NLP: string reading, sentence detecting, removing stop words, tokenization, lemmatization, Part of Speech tagging (detecting usage of words in a sentence),...
 
-
-Partie textacy (mais finalement pas sûre qu'on l'utilise)
+Partie textacy (on l'utilis finalement ?)
 
 Partie en_core_web_sm
