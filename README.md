@@ -15,6 +15,9 @@ Partie spacy
 
 spaCy is a Python library designed for advanced NLP. It is trained for more than 60 languages. It is able to perform all the tasks related to NLP: string reading, sentence detecting, removing stop words, tokenization, lemmatization, Part of Speech tagging (detecting usage of words in a sentence),...
 
+Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire du NER ?
+
+
 Partie textacy (on l'utilis finalement ?)
 
 Partie en_core_web_sm
