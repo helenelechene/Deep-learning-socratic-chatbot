@@ -1,4 +1,4 @@
 # Deep learning project
 
 
-## Hello
+## The Socratic questioning
