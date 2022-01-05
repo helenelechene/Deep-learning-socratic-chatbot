@@ -1,4 +1,4 @@
-<div style="text-align: justify"> your-text-here </div>
+<div style="text-align: justify"> 
 
 # Deep learning project
 
@@ -26,3 +26,5 @@ Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire
 Partie textacy (on l'utilis finalement ?)
 
 Partie en_core_web_sm
+
+</div>
