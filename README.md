@@ -1,3 +1,5 @@
+<div style="text-align: justify"> your-text-here </div>
+
 # Deep learning project
 
 
