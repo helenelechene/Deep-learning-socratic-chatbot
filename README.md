@@ -1,4 +1,3 @@
-<p align="right">
 
 # Deep learning project
 
@@ -27,4 +26,3 @@ Partie textacy (on l'utilis finalement ?)
 
 Partie en_core_web_sm
 
-</p>
