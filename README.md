@@ -10,12 +10,9 @@ In a word, the Socratic questionning can be summarised as birthing of spirits, w
 
 This is what we aim at performing in our project: creating a chatbot which asks questions to the patient just as if Socrat was asking the questions.
 
-Partie questionnement socratique
-
 Partie brève nlp / nltk
 
 ## NLP
-
 
 Natural Language Processing (NLP) is a field obtained by mixing three disciplines: Linguistics, Computer Science and Artificial Intelligence. It is based on the interaction between machines and human languages. The basis of NLP is thus that the computer understands, manipulates but also generates natural language elements. To do so, the NLTK (which stands for Natural Language Toolkit) library is one of the most powerful ones in Python.
 
@@ -31,11 +28,6 @@ Both spaCy and NLTK are able to perform NER. We mainly use spaCy.
 
 
 Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire du NER ?
-
-
-Partie textacy (on l'utilis finalement ?)
-
-Partie en_core_web_sm
 
 ## Chatbot
 
