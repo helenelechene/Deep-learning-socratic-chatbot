@@ -10,9 +10,6 @@ In a word, the Socratic questionning can be summarised as birthing of spirits, w
 
 This is what we aim at performing in our project: creating a chatbot which asks questions to the patient just as if Socrat was asking the questions.
 
-## Chatbot
-
-
 Partie questionnement socratique
 
 Partie brève nlp / nltk
@@ -39,4 +36,20 @@ Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire
 Partie textacy (on l'utilis finalement ?)
 
 Partie en_core_web_sm
+
+## Chatbot
+
+Our chatbot works as follows.
+
+At the beginning of the conversation, the Socratic chatbot introduces itself and asks the patient about him/her current problem. In our view, there can be two types of response:
+- a rather vague and general answer, of the grammatical type [subject] - [verb of feeling (to be, to feel...)] - [adjective]. Example: I feel sad.
+- a more precise answer directly indicating the reason for the discomfort. Example: I lost my glasses.
+
+For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: I lost my glasses. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
+
+Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
+
+If the answer is rather positive (yes or an equivalent),
+
+If the answer is rather negative (no or an equivalent), 
 
