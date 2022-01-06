@@ -49,4 +49,4 @@ If the answer is rather negative (*no* or an equivalent),
 
 Finally, our chatbot can be summarised as follows.
 
-![Chatbot functionning](Deep-learning-/Schéma 3.png)
+![Chatbot functionning](https://github.com/helenelechene/Deep-learning-/blob/main/Sch%C3%A9ma%203.png)
