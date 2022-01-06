@@ -42,7 +42,7 @@ Partie en_core_web_sm
 Our chatbot works as follows.
 
 At the beginning of the conversation, the Socratic chatbot introduces itself and asks the patient about him/her current problem. In our view, there can be two types of response:
-- a rather vague and general answer, of the grammatical type [subject] - [verb of feeling (to be, to feel...)] - [adjective]. Example: I feel sad.
+- a rather vague and general answer, of the grammatical type [subject] [verb of feeling (to be, to feel...)] [adjective]. Example: I feel sad.
 - a more precise answer directly indicating the reason for the discomfort. Example: I lost my glasses.
 
 For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: I lost my glasses. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
