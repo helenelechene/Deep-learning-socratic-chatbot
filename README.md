@@ -55,4 +55,4 @@ If the answer is rather negative (no or an equivalent),
 
 Finally, our chatbot can be summarised as follows.
 
-![Chatbot functionning](helenelechene/Deep-learning-/Schéma 3.png)
+![Chatbot functionning](Schéma 3.png)
