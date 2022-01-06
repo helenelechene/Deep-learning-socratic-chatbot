@@ -22,13 +22,15 @@ Partie brève nlp / nltk
 
 Natural Language Processing (NLP) is a field obtained by mixing three disciplines: Linguistics, Computer Science and Artificial Intelligence. It is based on the interaction between machines and human languages. The basis of NLP is thus that the computer understands, manipulates but also generates natural language elements. To do so, the NLTK (which stands for Natural Language Toolkit) library is one of the most powerful ones in Python.
 
-### spaCY 
+### spaCy
 
 spaCy is a Python library designed for advanced NLP. It is trained for more than 60 languages. It is able to perform all the tasks related to NLP: string reading, sentence detecting, removing stop words, tokenization, lemmatization, Part of Speech tagging (detecting usage of words in a sentence),...
 
 ### NER
 
-Our chatbot is based on NER: Named Entity Recognition
+Our chatbot is based on NER: Named Entity Recognition. NER is the process of Natural Language Processing that identifies and classifies named entities. Basically, the text in natural language is read by the algorithm and this latter classifies elements of the sentences: places, dates, people, organisations, events, quantities,...
+
+Both spaCy and NLTK are able to perform NER. We mainly use spaCy.
 
 
 Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire du NER ?
