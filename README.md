@@ -26,8 +26,6 @@ Our chatbot is based on NER: Named Entity Recognition. NER is the process of Nat
 
 The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP API. We chose to use SpaCy because it is the most common one, but still very efficient. SpaCy is trained on a large corpus of texts of several types (news, talk shows, speeches, blogs on the web,...), which proves its ability to analyse all kinds of text documents.
 
-Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire du NER ?
-
 ## Chatbot
 
 Our chatbot works as follows.
@@ -36,9 +34,7 @@ At the beginning of the conversation, the Socratic chatbot introduces itself and
 - a rather vague and general answer, of the grammatical type [subject] [verb of feeling (to be, to feel...)] [adjective]. Example: *I feel sad.*
 - a more precise answer directly indicating the reason for the discomfort. Example: *I lost my glasses.*
 
-Our chatbot detects the kind of sentence that the user made.
-
-For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: *I lost my glasses*. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
+Our chatbot detects the kind of sentence that the user made. For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: *I lost my glasses*. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
 
 Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
 
