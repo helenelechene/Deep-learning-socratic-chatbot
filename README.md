@@ -24,8 +24,7 @@ spaCy is a Python library designed for advanced NLP. It is trained for more than
 
 Our chatbot is based on NER: Named Entity Recognition. NER is the process of Natural Language Processing that identifies and classifies named entities. Basically, the text in natural language is read by the algorithm and this latter classifies elements of the sentences: places, dates, people, organisations, events, quantities,...
 
-Both spaCy and NLTK are able to perform NER. We mainly use spaCy.
-
+The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP API. We chose to use SpaCy because it is the most common one, but still very efficient. SpaCy is trained on a large corpus of texts of several types (news, talk shows, speeches, blogs on the web,...), which proves its ability to analyse all kinds of text documents.
 
 Pourquoi avoir choisi spaCy plutôt que d'autres solutions existantes pour faire du NER ?
 
