@@ -50,14 +50,15 @@ Thus, the main issue is **conjugate the verb** and to **transform the subject as
 
 We have used two methods to convert our affirmation into questions:
 
-For the pronouns and the nouns: we have replaced all pronouns and nouns we could think about by directly changing the string that the user typed. Basically, we have to change all pronouns and nouns of the 1st person to the 2nd person.
+- For the pronouns and the nouns: we have replaced all pronouns and nouns we could think about by directly changing the string that the user typed. Basically, we have to change all pronouns and nouns of the 1st person to the 2nd person. 
 
-
-
+- For the conjugation, we used NER. Indeed, we wanted to change the tense of the verb in order to ask the following question: 
 
 *- User : I broke my car* 
 
 *- Socrate: Is it the first time you break your car ?* 
+
+Thus, we add to find the subjet as well as the verb. Thank to spaCy, we could identify easily the verbs.
 
 
 Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
