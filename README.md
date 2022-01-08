@@ -79,5 +79,5 @@ Here are some examples of conversations between a user and Socrate using our alg
 
 ## References
 
-1.
+1. Socratic chatbot - Jan Moppel
 2. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
