@@ -4,7 +4,7 @@
 
 ## 1. The Socratic questioning
 
-The Socratic questioning or Socratic maieutics is a conversation style used by the philosopher Socrate (470BC-399BC) in the Ancient greek. It is well illustrated in the writings of Plato (428/427BC-348/347BC) such as *Theaetetus*.
+The Socratic questioning or Socratic maieutics is a conversation style used by the philosopher Socrates (470BC-399BC) in the Ancient greek. It is well illustrated in the writings of Plato (428/427BC-348/347BC) such as *Theaetetus*.
 
 In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself by himself or herself.
 
