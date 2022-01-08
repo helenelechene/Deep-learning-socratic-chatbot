@@ -48,17 +48,12 @@ In our chabtot the main issue was to transform affirmative sentences into questi
 
 Thus, the main issue is **conjugate the verb** and to **transform the subject as well as the pronoun** (*I* becomes *you*, *my* becomes *your*...). Our chatbot speaks in English (not in Greek hopefully) and it is relatively easy to conjugate in English. 
 
-We can distinguish two cases: 
-
-The subject of problem is myself: *I am having a bad day* then we 
-
-The subject of the problem is a third person: *My sister is having a bad day*
-
-
-
 We have used two methods to convert our affirmation into questions:
 
-First, we have replaced all words we could think about
+For the pronouns and the nouns: we have replaced all pronouns and nouns we could think about by directly changing the string that the user typed. Basically, we have to change all pronouns and nouns of the 1st person to the 2nd person.
+
+
+
 
 *- User : I broke my car* 
 
