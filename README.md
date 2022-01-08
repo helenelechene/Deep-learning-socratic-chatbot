@@ -61,23 +61,18 @@ We have used two methods to convert our affirmation into questions:
 Thus, we had to find the subject as well as the verb. Thank to spaCy and NER, we could identify easily the verbs. The subject was more difficult to identify, especially when there are two subjects in the sentence ex: *User : I broke my computer and my parents are mad*. We defined the subject as the first world before the verb (a -ing form and non past participle form is not considered as a verb here). Then we conjugate the verbs using the present tense.
 
 
-
-
-
-Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
-
-If the answer is rather positive (*yes* or an equivalent),
-
-If the answer is rather negative (*no* or an equivalent), 
-
 Finally, our chatbot can be summarised as follows.
 
 ![Chatbot functionning](https://github.com/helenelechene/Deep-learning-/blob/main/Sch%C3%A9ma%203.png)
 
+
 Here are some examples of conversations between a user and Socrate:
+
 
 ![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20example%201.PNG)
 
+
 ![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20example%202.PNG)
+
 
 ![Conversation 3](https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20example%203.PNG)
