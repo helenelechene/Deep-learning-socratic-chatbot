@@ -73,3 +73,6 @@ If the answer is rather negative (*no* or an equivalent),
 Finally, our chatbot can be summarised as follows.
 
 ![Chatbot functionning](https://github.com/helenelechene/Deep-learning-/blob/main/Sch%C3%A9ma%203.png)
+
+Here are some examples of conversations between a user and Socrate:
+https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20exemple.PNG
