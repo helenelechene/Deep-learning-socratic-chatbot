@@ -17,7 +17,7 @@ For example in that extract of *Gorgias*, we see that Socrates hardly asserts an
 This is what we aim at performing in our project: creating a chatbot which asks questions to somebody just as if Socrates was asking the questions.
 
 
-## 2. NLP
+## 2. NLP and packages
 
 Natural Language Processing (NLP) is a field obtained by mixing three disciplines: Linguistics, Computer Science and Artificial Intelligence. It is based on the interaction between machines and human languages. The basis of NLP is thus that the computer understands, manipulates but also generates natural language elements. To do so, the NLTK (which stands for Natural Language Toolkit) library is one of the most powerful ones in Python.
 
@@ -33,10 +33,10 @@ spaCy is a Python library designed for advanced NLP. It is trained for more than
 
 The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP API. We chose to use SpaCy because it is the most common one, but still very efficient. SpaCy is trained on a large corpus of texts of several types (news, talk shows, speeches, blogs on the web,...), which is OntoNotes5.0. It thus proves its ability to analyse all kinds of text documents.
 
+### 2.3. pattern
+
 ## 3. Chatbot
 
-
-### 3.1. ####
 
 A chatbot try to reproduce a conversation between humans. The aim of chatbot is usually to appear as humanly as possible, in other words, to try to pass the Turing test. A simple form of chatbot is Artificial Intelligence Markup Language (AIML) that is based on pattern and templates, the pattern is usual form of the question and the template the proper answer to the question. Thus, a chatbot relies largely on NLP.
 
