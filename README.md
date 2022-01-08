@@ -63,13 +63,13 @@ Thus, we had to find the subject as well as the verb. Thank to spaCy and NER, we
 
 Finally, our chatbot can be summarised as follows.
 
-![Chatbot functionning](https://github.com/helenelechene/Deep-learning-/blob/main/Sch%C3%A9ma%203.png)
+![Chatbot](https://github.com/helenelechene/Deep-learning-/blob/main/Image/tree.png)
 
 
 Here are some examples of conversations between a user and Socrate:
 
 
-![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/tree.png)
+![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex1.png)
 
 ![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex2.png)
 
