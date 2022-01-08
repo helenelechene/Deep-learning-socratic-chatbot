@@ -35,7 +35,7 @@ The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP
 
 ### 2.3. pattern library
 
-Pattern is another Python NLP library. From our experience throughout this proejct, it works well for grammatical purposes, making conjugation as well as determining the grammatical person and number (singular or plural). Also from our experience, it is not really efficient for doing sentiment analysis on small sentences (without modelling and optimization using only the function sentiment()).  
+Pattern is another Python NLP library. From our experience throughout this project, it works well and it is simple to use for grammatical purposes, making conjugation as well as determining the grammatical person and number (singular or plural) of words. Also from our experience, it is not really efficient for doing sentiment analysis on small sentences (without modelling and optimization using only the function 'sentiment'.  
 
 ## 3. Chatbot
 
