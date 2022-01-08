@@ -72,7 +72,7 @@ Here are some examples of conversations between a user and Socrate:
 ![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/
 
 
-![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20example%202.PNG)
+![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex1.PNG)
 
 
 ![Conversation 3](https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20example%203.PNG)
