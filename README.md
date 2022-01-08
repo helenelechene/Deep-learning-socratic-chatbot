@@ -36,6 +36,8 @@ At the beginning of the conversation, the Socratic chatbot introduces itself and
 
 Our chatbot detects the kind of sentence that the user made. For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: *I lost my glasses*. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
 
+### Building the questions ###
+
 In our chabtot the main issue was to transform affirmative sentences into questions as well as to conjugate some verbs. In in english, is quite simple to transform a affirmation into a question.
 Indeed, our chatbot, or Socrate, only asks indirect questions: 
 *- User : I am sad*
