@@ -86,3 +86,5 @@ Here are some examples of conversations between a user and Socrate using our alg
 4. https://spacy.io
 5. https://stackabuse.com/python-for-nlp-introduction-to-the-pattern-library/
 6. https://www.nltk.org/
+7. https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+8. https://machinelearningknowledge.ai/tutorial-on-spacy-part-of-speech-pos-tagging/
