@@ -78,3 +78,6 @@ Here are some examples of conversations between a user and Socrate using our alg
 ![Conversation 3](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex3.png)
 
 ## References
+
+1.
+2. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
