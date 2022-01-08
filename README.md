@@ -10,7 +10,9 @@ The Socratic questioning or Socratic maieutics is a conversation style used by t
 
 In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself by himself or herself. Socrates will not directly give the answer to a question, but will ask proper questions that will allow the interlocutor to find the answer by himself or helself. 
 
-For example in that extract of *Gorgias*, we see that Socrates really assert anything but just make Gorgia question himself;
+For example in that extract of *Gorgias*, we see that Socrates hardly asserts anything but rather make Gorgia question himself about his beliefs:
+
+![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/gorgias.png)
 
 This is what we aim at performing in our project: creating a chatbot which asks questions to somebody just as if Socrates was asking the questions.
 
