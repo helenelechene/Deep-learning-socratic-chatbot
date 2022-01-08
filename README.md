@@ -18,7 +18,7 @@ Natural Language Processing (NLP) is a field obtained by mixing three discipline
 
 ### 2.1. NER
 
-Our chatbot is based on NER: Named Entity Recognition. NER is the process of Natural Language Processing that identifies and classifies named entities. Basically, the text in natural language is read by the algorithm and this latter classifies elements of the sentences: places, dates, people, organisations, events, quantities,...
+Our chatbot is based on NER: Named Entity Recognition. NER is the process of Natural Language Processing that identifies and classifies named entities. Basically, the text in natural language is read by the algorithm and this latter classifies elements of the sentences: places, dates, people, organisations, events, quantities... But more specifically grammatical elements: verb, noun, adjective....
 
 
 ### 2.2. spaCy
