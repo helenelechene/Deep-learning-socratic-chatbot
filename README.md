@@ -31,6 +31,10 @@ The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP
 
 ## 3. Chatbot
 
+
+### 3.1. ####
+
+
 ### 3.1. Building the questions ###
 
 In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions:
