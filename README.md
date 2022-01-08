@@ -8,11 +8,10 @@
 
 The Socratic questioning or Socratic maieutics is a conversation style used by the philosopher Socrates (470BC-399BC) in the Ancient greek. It is well illustrated in the writings of Plato (428/427BC-348/347BC) such as *Theaetetus*.
 
-In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself by himself or herself.
+In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself by himself or herself. Socrates will not directly give the answer to a question, but will ask proper questions that will allow the interlocutor to find the answer by himself or helself. 
 
 This is what we aim at performing in our project: creating a chatbot which asks questions to the patient just as if Socrat was asking the questions.
 
-Partie brève nlp / nltk
 
 ## 2. NLP
 
