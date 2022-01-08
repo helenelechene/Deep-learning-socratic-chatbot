@@ -82,3 +82,4 @@ Here are some examples of conversations between a user and Socrate using our alg
 
 1. Moppel J., Bachelor's thesis: Socratic chatbot, University of Tartu, (2018).
 2. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
+3. https://spacy.io/
