@@ -40,9 +40,12 @@ Our chatbot detects the kind of sentence that the user made. For the first possi
 
 ### 3.1. Building the questions ###
 
-In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions:  \\
-*- User : I am sad* \\
-*- Socrate: Could you think of any reason why you are sad ?* \\
+In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions:
+
+*- User : I am sad* 
+
+*- Socrate: Could you think of any reason why you are sad ?* 
+
 Thus, the main issue is conjugate the verb and to transform the subject as well as the pronoun (I becomes you, my becomes your...).
 
 
