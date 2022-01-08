@@ -76,3 +76,5 @@ Here are some examples of conversations between a user and Socrate using our alg
 ![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex2.png)
 
 ![Conversation 3](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex3.png)
+
+# References
