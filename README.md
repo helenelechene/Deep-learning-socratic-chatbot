@@ -46,7 +46,7 @@ In our chabtot the main issue was to transform affirmative sentences into questi
 
 *- Socrate: Could you think of any reason why you are sad ?* 
 
-Thus, the main issue is **conjugate the verb** and to **transform the subject as well as the pronoun** (*I* becomes *you*, *my* becomes *your*...).
+Thus, the main issue is **conjugate the verb** and to **transform the subject as well as the pronoun** (*I* becomes *you*, *my* becomes *your*...). Our chatbot speaks in English (not in Greek) and it is relatively easy to conjugate in English. 
 
 
 
