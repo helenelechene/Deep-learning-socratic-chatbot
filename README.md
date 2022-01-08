@@ -1,5 +1,5 @@
 
-# Deep learning project
+# Deep learning project - A Socratic chatbot
 
 
 ## 1. The Socratic questioning
