@@ -38,11 +38,10 @@ Our chatbot detects the kind of sentence that the user made. For the first possi
 
 ### Building the questions ###
 
-In our chabtot the main issue was to transform affirmative sentences into questions as well as to conjugate some verbs. In in english, is quite simple to transform a affirmation into a question.
-Indeed, our chatbot, or Socrate, only asks indirect questions: 
+In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions: 
 *- User : I am sad*
-*- Socrate: Could you think of any reason why you are sad*
-Thus, the issue is to conjugation the verb and to transformationt the subject as well as the pronoun.
+*- Socrate: Could you think of any reason why you are sad ?*
+Thus, the main issue is conjugate the verb and to transform the subject as well as the pronoun (I becomes you, my becomes your...).
 
 
 
