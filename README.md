@@ -6,7 +6,7 @@
 
 The Socratic questioning or Socratic maieutics is a conversation style used by the philosopher Socrate (470BC-399BC) in the Ancient greek. It is well illustrated in the writings of Plato (428/427BC-348/347BC) such as *Theaetetus*.
 
-In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself.
+In a word, the Socratic questionning can be summarised as birthing of spirits, which means that thanks to questioning, the respondent manages to find truths in himself or herself by himself or herself.
 
 This is what we aim at performing in our project: creating a chatbot which asks questions to the patient just as if Socrat was asking the questions.
 
@@ -35,6 +35,14 @@ At the beginning of the conversation, the Socratic chatbot introduces itself and
 - a more precise answer directly indicating the reason for the discomfort. Example: *I lost my glasses.*
 
 Our chatbot detects the kind of sentence that the user made. For the first possibility of answer, the chatbot answers to know the exact source of unhappiness. Example: *I lost my glasses*. Once the answer has been obtained, the questioning is therefore at the same level as for the second possible answer.
+
+In our chabtot the main issue was to transform affirmative sentences into questions as well as to conjugate some verbs. In in english, is quite simple to transform a affirmation into a question.
+Indeed, our chatbot, or Socrate, only asks indirect questions: 
+*- User : I am sad*
+*- Socrate: Could you think of any reason why you are sad*
+Thus, the issue is to conjugation the verb and to transformationt the subject as well as the pronoun.
+
+
 
 Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
 
