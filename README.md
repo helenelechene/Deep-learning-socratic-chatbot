@@ -58,7 +58,7 @@ We have used two methods to convert our affirmation into questions:
 
 *- Socrate: Is it the first time you break your car ?* 
 
-Thus, we had to find the subject as well as the verb. Thank to spaCy and NER, we could identify easily the verbs. The subject was more difficult to identify, especially when there are two subjects in the sentence ex: *User : I broke my computer and my parents are mad*. We defined the subject as the first world before the verb (a -ing form and non past participle form is not considered as a verb here). Then we conjugate the verbs using the present tense.
+Thus, we had to find the subject as well as the verb. Thank to spaCy and NER, we could identify easily the verbs. The subject was more difficult to identify, especially when there are two subjects in the sentence ex: *User : I broke my phone and my parents are mad*. We defined the subject as the first world before the verb (a -ing form and non past participle form is not considered as a verb here). Then we conjugate the verbs using the present tense.
 
 
 
@@ -75,4 +75,4 @@ Finally, our chatbot can be summarised as follows.
 ![Chatbot functionning](https://github.com/helenelechene/Deep-learning-/blob/main/Sch%C3%A9ma%203.png)
 
 Here are some examples of conversations between a user and Socrate:
-![Conversation 1] https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20exemple.PNG
+https://github.com/helenelechene/Deep-learning-/blob/main/Conversation%20exemple.PNG
