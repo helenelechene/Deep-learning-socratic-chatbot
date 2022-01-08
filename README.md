@@ -38,7 +38,7 @@ The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP
 
 ### 3.1. ####
 
-A chatbot try to reproduce a conversation between humans. The aim of chatbot is usually to appear as humanly as possible, in other words, to try to pass the Turing test. Thus, a chatbot largely relies on NLP algorithms.
+A chatbot try to reproduce a conversation between humans. The aim of chatbot is usually to appear as humanly as possible, in other words, to try to pass the Turing test. A simple form of chatbot is Artificial Intelligence Markup Language (AIML). Thus, a chatbot largely relies on NLP algorithms.
 
 ### 3.1. Building the questions ###
 
