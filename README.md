@@ -68,7 +68,7 @@ Finally, our chatbot can be summarised as follows.
 ![Chatbot](https://github.com/helenelechene/Deep-learning-/blob/main/Image/tree.png)
 
 
-Here are some examples of conversations between a user and Socrate:
+Here are some examples of conversations between a user and Socrate using our algorithm:
 
 
 ![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex1.png)
