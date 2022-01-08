@@ -69,7 +69,7 @@ Finally, our chatbot can be summarised as follows.
 Here are some examples of conversations between a user and Socrate:
 
 
-![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex1.png)
+![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/tree.png)
 
 ![Conversation 2](https://github.com/helenelechene/Deep-learning-/blob/main/Image/ex2.png)
 
