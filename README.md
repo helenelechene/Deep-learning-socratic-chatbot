@@ -82,4 +82,7 @@ Here are some examples of conversations between a user and Socrate using our alg
 
 1. Moppel J., Bachelor's thesis: Socratic chatbot, University of Tartu, (2018).
 2. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
-3. https://spacy.io/
+3. https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
+4. https://spacy.io
+5. https://stackabuse.com/python-for-nlp-introduction-to-the-pattern-library/
+6. 
