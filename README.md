@@ -32,7 +32,7 @@ The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP
 
 Our chatbot works as follows.
 
-At the beginning of the conversation, the Socratic chatbot introduces itself and asks the patient about him/her current problem. In our view, there can be two types of response:
+At the beginning of the conversation, the Socratic chatbot introduces itself and asks the patient about him/her current problem. In our view, there can be two types of response: 
 - a rather vague and general answer, of the grammatical type [subject] [verb of feeling (to be, to feel...)] [adjective]. Example: *I feel sad.*
 - a more precise answer directly indicating the reason for the discomfort. Example: *I lost my glasses.*
 
@@ -40,9 +40,9 @@ Our chatbot detects the kind of sentence that the user made. For the first possi
 
 ### 3.1. Building the questions ###
 
-In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions: 
-*- User : I am sad*
-*- Socrate: Could you think of any reason why you are sad ?*
+In our chabtot the main issue was to transform affirmative sentences into questions. For simplicity's sake, our chatbot, or Socrate, only asks indirect questions:  \\
+*- User : I am sad* \\
+*- Socrate: Could you think of any reason why you are sad ?* \\
 Thus, the main issue is conjugate the verb and to transform the subject as well as the pronoun (I becomes you, my becomes your...).
 
 
