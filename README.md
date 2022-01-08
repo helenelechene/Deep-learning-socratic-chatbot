@@ -34,6 +34,7 @@ The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP
 
 ### 3.1. ####
 
+A chatbot try to reproduce a conversation between humans. 
 
 ### 3.1. Building the questions ###
 
