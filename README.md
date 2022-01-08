@@ -1,5 +1,7 @@
 
-# Deep learning project - A Socratic chatbot - Hélène LECHÊNE and Romane SOLER 
+# Deep learning project - A Socratic chatbot 
+
+## Hélène LECHÊNE and Romane SOLER 
 
 
 ## 1. The Socratic questioning
