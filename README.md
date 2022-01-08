@@ -26,14 +26,16 @@ Natural Language Processing (NLP) is a field obtained by mixing three discipline
 Our chatbot is based on NER: Named Entity Recognition. NER is the process of Natural Language Processing that identifies and classifies named entities. Basically, the text in natural language is read by the algorithm and this latter classifies elements of the sentences: places, dates, people, organisations, events, quantities... Or more specifically in the context of our project grammatical elements such as verb, noun, adjective etc.
 
 
-### 2.2. spaCy
+### 2.2. spaCy library
 
 spaCy is a Python library designed for advanced NLP. It is trained for more than 60 languages. It is able to perform all the tasks related to NLP: string reading, sentence detecting, removing stop words, tokenization, lemmatization, Part of Speech tagging (detecting usage of words in a sentence),...
 
 
 The three main methods to perform NER in Python are SpaCy, nltk and Google's NLP API. We chose to use SpaCy because it is the most common one, but still very efficient. SpaCy is trained on a large corpus of texts of several types (news, talk shows, speeches, blogs on the web,...), which is OntoNotes5.0. It thus proves its ability to analyse all kinds of text documents.
 
-### 2.3. pattern
+### 2.3. pattern library
+
+Pattern is another Python NLP library.
 
 ## 3. Chatbot
 
