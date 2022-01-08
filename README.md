@@ -14,7 +14,7 @@ For example in that extract of *Gorgias*, we see that Socrates hardly asserts an
 
 ![Conversation 1](https://github.com/helenelechene/Deep-learning-/blob/main/Image/gorgias.png)
 
-This is what we aim at performing in our project: creating a chatbot which asks questions to somebody just as if Socrates was asking the questions.
+This is what we aim at performing in our project: creating a chatbot which asks questions to somebody just as if Socrates were asking the questions.
 
 
 ## 2. NLP and packages
