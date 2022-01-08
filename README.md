@@ -46,8 +46,23 @@ In our chabtot the main issue was to transform affirmative sentences into questi
 
 *- Socrate: Could you think of any reason why you are sad ?* 
 
-Thus, the main issue is **conjugate the verb** and to **transform the subject as well as the pronoun** (*I* becomes *you*, *my* becomes *your*...). Our chatbot speaks in English (not in Greek) and it is relatively easy to conjugate in English. 
+Thus, the main issue is **conjugate the verb** and to **transform the subject as well as the pronoun** (*I* becomes *you*, *my* becomes *your*...). Our chatbot speaks in English (not in Greek hopefully) and it is relatively easy to conjugate in English. 
 
+We can distinguish two cases: 
+
+The subject of problem is myself: *I am having a bad day* then we 
+
+The subject of the problem is a third person: *My sister is having a bad day*
+
+
+
+We have used two methods to convert our affirmation into questions:
+
+First, we have replaced all words we could think about
+
+*- User : I broke my car* 
+
+*- Socrate: Is it the first time you break your car ?* 
 
 
 Then, for both cases, the chatbot asks if it is the first time the patient encounters such a situation, or not.
