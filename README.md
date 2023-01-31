@@ -81,10 +81,11 @@ Here are some examples of conversations between a user and Socrate using our alg
 ## References
 
 1. Moppel J., Bachelor's thesis: Socratic chatbot, University of Tartu, (2018).
-2. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
-3. https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
-4. https://spacy.io
-5. https://stackabuse.com/python-for-nlp-introduction-to-the-pattern-library/
-6. https://www.nltk.org/
-7. https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
-8. https://machinelearningknowledge.ai/tutorial-on-spacy-part-of-speech-pos-tagging/
+2. Plato, Gorgias (380BC).
+3. https://github.com/janmoppel/socratic-chatbot/tree/master/SocraticChatbot
+4. https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
+5. https://spacy.io
+6. https://stackabuse.com/python-for-nlp-introduction-to-the-pattern-library/
+7. https://www.nltk.org/
+8. https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+9. https://machinelearningknowledge.ai/tutorial-on-spacy-part-of-speech-pos-tagging/
